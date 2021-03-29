@@ -1,0 +1,42 @@
+.body {
+	width: 800px;
+	height: 1000px;
+	background: palevioletred;
+	margin: 0 auto;
+}
+
+.nav {
+	height: 75px;
+	width: 100%;
+	background: #494748;
+	
+}
+.nav ul li{
+	margin: 10px;
+	margin-top:35px;
+	width: 80px;
+	height: 40px;
+	float: right;
+	list-style: none ;
+	text-align: center;
+}
+.content{
+	margin-top: 0px;
+	background-size: 100%;
+}
+
+#cont{
+	width: 800px;
+	height: 200px;background: #0000FF;
+	display: none;
+	margin-left: -310px;
+	margin-top: 18px;
+}
+.ding{
+	width: 80px;
+	height: 30px;
+	background-image: url(images/024b23f049237c4ff7ad81d152d30fc4_06.png);
+	border: none;
+	background: none;
+}
+
